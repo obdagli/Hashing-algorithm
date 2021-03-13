@@ -49,4 +49,10 @@ dökümandan kelime ekleme yapılır.
 
 ### Ekran görüntüleri
 
+![image](https://user-images.githubusercontent.com/56681549/111034595-7cf5b300-8427-11eb-8963-759049fc9ad3.png)
+![image](https://user-images.githubusercontent.com/56681549/111034615-854dee00-8427-11eb-828a-14527ae5d5f8.png)
+
+### complexity
+
+![image](https://user-images.githubusercontent.com/56681549/111034621-8da62900-8427-11eb-9781-d607ced5cfff.png)
 
